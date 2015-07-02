@@ -21,9 +21,9 @@
     "url": "https://github.com/pirumpi/sftp-upload/issues"
   },
   "dependencies": {
-    "ssh2": "^0.4.9"
-    "scp2": "~0.1.4",
-    "node.extend": "~1.0.9",
-    "async": "~0.2.10"
+      "ssh2": "^0.4.9",
+      "scp2": "~0.1.4",
+      "node.extend": "~1.0.9",
+      "async": "~0.2.10"
   }
 }
