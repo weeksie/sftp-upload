@@ -1,3 +1,6 @@
+Forked to use SSH2's sftp for those (admittedly weird) servers that
+can do sftp but not scp. Yeah, that's a thing that exists.
+
 # [SFTP-UPLOAD](https://npmjs.org/package/sftp-upload)
 
 sftp-upload allows node to upload the content of a folder to a remote server utilizing sftp protocol. The idea behind this modules is to simplify the ssh2 interface for sftp. This module has not OS dependencies so it can be run from Windows, Mac, and Linux.

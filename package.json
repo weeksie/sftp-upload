@@ -24,5 +24,8 @@
     "scp2": "~0.1.4",
     "node.extend": "~1.0.9",
     "async": "~0.2.10"
+  },
+  "devDependencies": {
+    "ssh2": "^0.4.9"
   }
 }
